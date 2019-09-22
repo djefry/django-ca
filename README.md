@@ -1,7 +1,7 @@
-<h1><strong>Django-CA</strong><h1>
-Simple CRUD using Django 2 with Ajax for Begineer
+<h1><strong>Django-CA</strong></h1>
+<h3>Simple CRUD using Django 2 with Ajax for Begineer</h3>
 
-Django-CA is short of django CRUD with ajax fiture
+Django-CA is short of django CRUD with ajax fiture,
 this repository for:
 <ul>
 <li>somebody who want to know how to make simple CRUD</li>
