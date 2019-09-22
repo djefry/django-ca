@@ -1,0 +1,23 @@
+{% extends 'rooms/base.html' %}
+{% block main %}
+<table class="table hover" id="myTable">
+    <thead>
+        <th> Room Number </th>
+        <th> Name </th>
+        <th> Number of Beds </th>
+        <th> Type </th>
+        <th width="150"> Actions </th>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<div id="roomform">
+    <a href="/rooms/create"><button id="createRoom" class="btn"> Create Room </button></a>
+</div>
+{% endblock %}
+
+{% block extrajs %}
+{% load static %}
+<script type="text/javascript" src="{% static 'js/app.js' %}"></script>
+{% endblock %}
