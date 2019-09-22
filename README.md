@@ -2,10 +2,12 @@
 Simple CRUD using Django 2 with Ajax for Begineer
 
 Django-CA is short of django CRUD with ajax fiture
-this repository for: 
-somebody who want to know how to make simple CRUD
-how to adding ajax to django project
-and especially for begineer.
+this repository for:
+<ul>
+<li>somebody who want to know how to make simple CRUD</li>
+<li>how to adding ajax to django project</li>
+<li>and especially for begineer.</li>
+</ul>
 
 <strong>How to use:</strong>
 1. Make sure you've install python3 and vitualenv
